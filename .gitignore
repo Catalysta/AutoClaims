@@ -1,0 +1,7 @@
+# Data files
+
+/data/*
+
+# IPython Checkpoints
+
+src/.ipynb_checkpoints/*
